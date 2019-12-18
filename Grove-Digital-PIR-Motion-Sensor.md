@@ -6,6 +6,7 @@ surveyurl:
 sku: 101020793
 tags:
 ---
+![](https://github.com/littletwany/Grove-Digital-PIR-Motion-Sensor/blob/master/img/sensor.jpg)
 This sensor allows you to sense motion, usually human movement in its range. Simply connect it to Grove - Base shield and program it, when anyone moves in its detecting range, the sensor will output HIGH on its SIG pin.
 <p style=":center"><a href="https://www.seeedstudio.com/。。。。" target="_blank"><img src="https://github.com/SeeedDocument/wiki_english/raw/master/docs/images/300px-Get_One_Now_Banner-ragular.png" /></a></p>
 
@@ -50,7 +51,7 @@ This sensor allows you to sense motion, usually human movement in its range. Sim
 
 | Seeeduino V4.2 | Grove - Digital PIR Motion Sensor | Base Shield |
 |--------------|----------------------|-----------------|
-|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/gs_1.jpg)|![enter image description here](https://github.com/SeeedDocument/Grove_PIR_Motion_Sensor/raw/master/img/Grove%20-%20PIR%20Motion%20Sensor_s.jpg)|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/gs_4.jpg)|
+|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/gs_1.jpg)|![enter image description here](https://github.com/littletwany/Grove-Digital-PIR-Motion-Sensor/blob/master/img/sensor.jpg)|![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_Light_Sensor/master/images/gs_4.jpg)|
 |[Get One Now](http://www.seeedstudio.com/Seeeduino-V4.2-p-2517.html)|[Get One Now](https://www.seeedstudio.com/Grove-Digital-PIR-Motion-Sensor。。。。。.html)|[Get One Now](https://www.seeedstudio.com/Base-Shield-V2-p-1378.html)|
 
 
@@ -61,7 +62,7 @@ This sensor allows you to sense motion, usually human movement in its range. Sim
 - **Step 4.** Connect Seeeduino to PC via a USB cable.
 
 
-![](https://github.com/SeeedDocument/Grove_PIR_Motion_Sensor/raw/master/img/connect_arduino.jpg)
+![](https://github.com/littletwany/Grove-Digital-PIR-Motion-Sensor/blob/master/img/Grove-Digital-PIR-Motion-Sensor-connect.jpg)
 
 !!!Note
 	If we don't have Grove Base Shield, We also can directly connect Grove-PIR Motion Sensor to Seeeduino as below.
@@ -111,15 +112,11 @@ void loop() {
 
 
 ## Resources
-- **[Eagle]** [Grove - Digital PIR Motion Sensor Eagle File v1.2](https://github.com/SeeedDocument/。。。。.zip)
-- **[PDF]** [Grove - Digital PIR Motion Sensor v1.2 Schematics](https://github.com/SeeedDocument/。。。。。.pdf)
-- **[PDF]** [Grove - Digital PIR Motion Sensor Eagle V1.2 PCB](https://github.com/SeeedDocument/。。。。.pdf)
-- **[Library]** [Github repository for Digital PIR Motion Sensor](https://github.com/Seeed-Studio/。。。。)
-- **[Datasheet]** [BS312 Datasheet](https://github.com/SeeedDocument/。。。.pdf)
-- **[Codecraft]** [CDC File](https://raw.githubusercontent.com/SeeedDocument/。。。。.zip)
+- **[ZIP]** [Grove - Digital PIR Motion Sensor](https://github.com/littletwany/Grove-Digital-PIR-Motion-Sensor/blob/master/res/Grove-Digital-PIR-Motion-Sensor.zip)
+- **[PDF]** [BS312 Datasheet](https://github.com/littletwany/Grove-Digital-PIR-Motion-Sensor/blob/master/res/BS312%20Datasheet.pdf)
 
 
 
 ## Tech Support
 Please submit any technical issue into our [forum](http://forum.seeedstudio.com/).
-<br /><p style="text-align:center"><a href="https://www.seeedstudio.com/act-4.html?utm_source=wiki&utm_medium=wikibanner&utm_campaign=newproducts" target="_blank"><img src="https://github.com/SeeedDocument/Wiki_Banner/raw/master/new_product.jpg" /></a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                             
+<br /><p style="text-align:center"><a href="https://www.seeedstudio.com/act-4.html?utm_source=wiki&utm_medium=wikibanner&utm_campaign=newproducts" target="_blank"><img src="https://github.com/SeeedDocument/Wiki_Banner/raw/master/new_product.jpg" /></a></p>                                                                                                                                                                                                                                                                                                                                                                                                                                               
