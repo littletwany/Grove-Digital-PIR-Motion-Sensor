@@ -115,7 +115,8 @@ void loop() {
 - **[ZIP]** [Grove - Digital PIR Motion Sensor](https://github.com/littletwany/Grove-Digital-PIR-Motion-Sensor/blob/master/res/Grove-Digital-PIR-Motion-Sensor.zip)
 - **[PDF]** [BS312 Datasheet](https://github.com/littletwany/Grove-Digital-PIR-Motion-Sensor/blob/master/res/BS312%20Datasheet.pdf)
 
-
+## Schematic Online Viewer
+<div class="altium-ecad-viewer" data-project-src="https://github.com/littletwany/Grove-Digital-PIR-Motion-Sensor/blob/master/res/Grove-Digital-PIR-Motion-Sensor.zip" style="border-radius: 0px 0px 4px 4px; height:500px; border-style: solid; border-width: 1px; border-color: rgb(241,241, 241); overflow: hidden; max-width: 1280px; max-height: 700px; box-sizing: border-box;" /></div>
 
 ## Tech Support
 Please submit any technical issue into our [forum](http://forum.seeedstudio.com/).
